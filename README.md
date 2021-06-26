@@ -19,8 +19,8 @@
 <br>
 
 <a href="https://github.com/g-rajesh">
-  <img height="300px" src="https://github-readme-stats.vercel.app/api?username=g-rajesh&theme=blue&show_icons=true" />
-  <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-rajesh&theme=blue&layout=compact" />
+  <img height="100px" src="https://github-readme-stats.vercel.app/api?username=g-rajesh&theme=blue&show_icons=true" />
+  <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-rajesh&theme=blue&layout=compact" />
 </a>
 
 <br/>

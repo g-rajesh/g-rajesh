@@ -6,7 +6,7 @@
 -    🧑‍🎓 I'm a second year student in MIT, India.
 -    📘 I'm currently learning node js(backend) which is super awesome.
 -    ✨ I have build 100+ projects since last year but i have contributed only few in the github.
--    🥅 2021 Goal - To complete learning react js, node js, react-native
+-    🥅 2021 Goals - To complete learning react js, node js, react-native
 
 ### My works
 

@@ -38,7 +38,9 @@
 
 ### Connect with me:
 
--    [Instagram](https://www.instagram.com/_.code.breaker._/)
--    [Dribble](https://dribbble.com/_code_breaker_)
--    [Linked in](https://www.linkedin.com/in/rajesh-g-82b8651a6/)
--    [Twitter](https://twitter.com)
+<br />
+
+> -    [Instagram](https://www.instagram.com/_.code.breaker._/)
+> -    [Dribble](https://dribbble.com/_code_breaker_)
+> -    [Linked in](https://www.linkedin.com/in/rajesh-g-82b8651a6/)
+> -    [Twitter](https://twitter.com)

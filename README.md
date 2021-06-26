@@ -44,3 +44,7 @@
 > -    [Dribble](https://dribbble.com/_code_breaker_)
 > -    [Linked in](https://www.linkedin.com/in/rajesh-g-82b8651a6/)
 > -    [Twitter](https://twitter.com)
+
+<br />
+
+<h5 style="text-align:center;">All rights reserved @G Rajesh - aka   _code_breaker_</h5>

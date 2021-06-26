@@ -1,6 +1,6 @@
 ### Hi there, I'm G Rajesh 👋
 
-## I'm a Programmer, UI/UX Designer, MERN STACK Developer and MIT Student!
+## I'm a Programmer, UI/UX Designer, FULL STACK Developer and MIT Student!
 
 -    😉 I'm from Tiruvottiyur, Chennai, TamilNadu, India.
 -    🧑‍🎓 I'm a second year student in MIT, India.

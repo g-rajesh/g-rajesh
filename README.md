@@ -8,13 +8,12 @@
 -    ✨ I have build 100+ projects since last year but i have contributed only few in the github.
 -    🥅 2021 Goals - To complete learning react js, node js, react-native
 
-### My works
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
--    html/css/js
--    react js
--    node js
--    C/C++
--    python
+- 💻 &nbsp; C | C++ | Python
+- 🌐 &nbsp; Html | Css | Javascript | React js | Node js
+- 🛢 &nbsp; Mysql | MongoDB
+- 🔧 &nbsp; Visual Studio Code | Pycharm | Anaconda | Codeblocks
 
 ### Connect with me:
 

@@ -16,6 +16,15 @@
 - 🛢 &nbsp; Mysql | MongoDB
 - 🔧 &nbsp; Visual Studio Code | Pycharm | Anaconda | Codeblocks
 
+<br>
+
+<a href="https://github.com/g-rajesh">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=g-rajesh&theme=blue&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-rajesh&theme=blue&layout=compact" />
+</a>
+
+<br/>
+
 ### Connect with me:
 
 [<img align="left" alt="instagram.com" width="22px" src="https://i.pinimg.com/736x/5e/ff/6c/5eff6c25d920f6a78fda288e6589bf8b.jpg" />](https://www.instagram.com/_.code.breaker._/)

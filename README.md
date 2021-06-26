@@ -1,6 +1,5 @@
 ## Hi there, I'm G Rajesh 👋
 
-<br />
 
 ### 👨🏻‍💻 &nbsp;About Me
 

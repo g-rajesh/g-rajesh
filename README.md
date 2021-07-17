@@ -23,6 +23,7 @@
 💻 C | C++ | Python
 🌐 Html | Css | Javascript | React js | Node js
 🛢  Mysql | MongoDB
+🧠 REST | GRAPHQL
 🔧 Visual Studio Code | Pycharm | Anaconda | Codeblocks
 
 ```

@@ -20,7 +20,7 @@
 
 ```
 
-💻 C | C++ | Python
+💻 C | C++ | Python | Java
 🌐 Html | Css | Javascript | React js | Node js
 🛢  Mysql | MongoDB
 🧠 REST | GRAPHQL
